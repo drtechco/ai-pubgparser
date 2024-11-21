@@ -1,0 +1,73 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - ./postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U airflow"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+
+  airflow-init:
+    image: localhost:5000/airflow_custom:latest 
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      AIRFLOW__CORE__LOAD_EXAMPLES: "true"
+    depends_on:
+      - postgres
+    volumes:
+      - ./airflow_data:/opt/airflow
+    entrypoint: |
+      /bin/bash -c "
+      airflow db init &&
+      airflow users create -u admin -p admin -f Admin -l User -r Admin -e admin@example.com
+      "
+    restart: on-failure
+    container_name: airflow-init
+
+  airflow_webserver:
+    image: localhost:5000/airflow_custom:latest 
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+    ports:
+      - "9995:9995"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+    volumes:
+      - ./airflow_data:/opt/airflow
+    command: airflow webserver -p 9995
+
+  scheduler:
+    image: localhost:5000/airflow_custom:latest 
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+    volumes:
+      - ./airflow_data:/opt/airflow
+      - /media/hbdesk/UNTITLED/raw_video_data:/raw_video_data
+      - /media/hbdesk/UNTITLED/frames_extract:/frames_extract
+      - /media/hbdesk/UNTITLED/preprocessed_data:/preprocessed_data
+    command: airflow scheduler
+
+volumes:
+  postgres_data:
+  airflow_data:
+

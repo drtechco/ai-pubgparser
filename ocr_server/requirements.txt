@@ -1,0 +1,6 @@
+paddlepaddle-gpu
+paddleocr
+opencv-python
+albumentations
+flask
+setuptools

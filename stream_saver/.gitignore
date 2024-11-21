@@ -1,0 +1,8 @@
+*.mp4
+venv
+outputs
+saved_640o
+saved_640o2
+saved_640o3
+saved_*
+saved*

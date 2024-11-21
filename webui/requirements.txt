@@ -1,0 +1,4 @@
+gradio
+opencv-python
+typing
+ultralytics

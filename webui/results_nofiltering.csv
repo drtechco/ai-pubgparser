@@ -1,0 +1,784 @@
+,TIME,KILLER,DEAD,KILL_METHOD,CURRENT_STATUS
+0,0:17.00,ANTIDOTE1006,Dino-13,weapon,dead
+1,0:18.00,ANTIDOTE1006,Dino-13,weapon,dead
+2,0:19.00,ANTIDOTE1006,Dino-13,weapon,dead
+3,0:19.00,ANTIDOTE1006,Dino-13,weapon,dead
+4,0:20.00,ANTIDOTE1006,Dino-13,weapon,dead
+5,0:21.00,ANTIDOTE1006,Dino-13,weapon,dead
+6,0:21.00,ANTIDOTE1006,Dino-13,weapon,dead
+7,0:22.00,ANTIDOTE1006,Dino-13,weapon,dead
+8,0:23.00,ANTIDOTE1006,Dino-13,weapon,dead
+9,0:23.00,ANTIDOTE1006,Dino-13,weapon,dead
+10,0:35.00,TheClappening,The1TrueHero,weapon,dead
+11,0:35.00,TheClappening,The1TrueHero,weapon,dead
+12,0:36.00,TheClappening,The1TrueHero,weapon,dead
+13,0:37.00,TheClappening,The1TrueHero,weapon,dead
+14,0:37.00,TheClappening,The1TrueHero,weapon,dead
+15,0:38.00,TheClappening,The1TrueHero,weapon,dead
+16,0:39.00,TheClappening,The1TrueHero,weapon,dead
+17,0:39.00,TheClappening,The1TrueHero,weapon,dead
+18,0:39.00,TheClappening,ThelTrueHero,weapon,dead
+19,0:40.00,TheClappening,ThelTrueHero,weapon,dead
+20,0:41.00,TheClappening,The1TrueHero,weapon,dead
+21,0:44.00,ANTIDOTE1006,FOOBxHicCup,weapon,dead
+22,0:45.00,ANTIDOTE1006,FOOBxHicCup,weapon,dead
+23,0:45.00,ANTIDOTE1006,FOOB xHicCup,weapon,dead
+24,0:46.00,ANTIDOTE1006,FOOB xHicCup,weapon,dead
+25,0:46.00,TheMilkMan,TheClappening,weapon,dead
+26,0:47.00,ANTIDOTE1006,[FOOB] xHicCup,weapon,dead
+27,0:47.00,TheMilkMan,heClappenino,weapon,dead
+28,0:47.00,ANTIDOTE1006,[FOOB] xHicCup,weapon,dead
+29,0:47.00,TheMilkMan,TheClappening,weapon,dead
+30,0:48.00,ANTIDOTE1006,[FOOB] xHicCup,weapon,dead
+31,0:48.00,TheMilkMan,neClappenin,weapon,dead
+32,0:49.00,TheMilkMan,TheClappening,weapon,dead
+33,0:49.00,ANTIDOTE1006,[FOOB] xHicCup,weapon,dead
+34,0:49.00,CXMKleitonLyzFoley,SmellyAfricans,weapon,dead
+35,0:49.00,HiliPeracTive,The-Phoenix,weapon,dead
+36,0:49.00,ANTIDOTE1006,[FOOB] xHicCup,weapon,dead
+37,0:49.00,CXMKleitonLyzFole,SmellyAfricans,weapon,dead
+38,0:49.00,HiiiPeracTive,The-Phoenix,weapon,dead
+39,0:50.00,CXMKleitonLyzFole,SmellyAfricans,weapon,dead
+40,0:50.00,[QQGG] BroadwayBRETT,MildCaucazian,weapon,dead
+41,0:50.00,HiiiPeracTive,The-Phoenix,weapon,dead
+42,0:50.00,TheMilkMan,TheClappening,weapon,dead
+43,0:51.00,CXM KleitonLyzFole,SmellyAfricans,weapon,dead
+44,0:51.00,[QQGG] BroadwayBRETT,MildCaucazian,weapon,dead
+45,0:51.00,HiliPeracTive,The-Phoenix,weapon,dead
+46,0:51.00,TheMilkMan,TheClappening,weapon,dead
+47,0:51.00,CXM KleitonLyzFole,SmellyAfricans,weapon,dead
+48,0:51.00,QQGG BroadwayBRETT,MildCaucazian,weapon,dead
+49,0:51.00,HiiiPeracTive,The-Phoenix,weapon,dead
+50,0:51.00,TheMilkMan,TheClappening,weapon,dead
+51,0:52.00,CXM KleitonLyzFole,SmellyAfricans,weapon,dead
+52,0:52.00,HiliPeracTive,The-Phoenix,weapon,dead
+53,0:52.00,QQGG BroadwayBRETT,MildCaucazian,weapon,dead
+54,0:53.00,CXMKleitonLyzFoley,SmellyAfricans,weapon,dead
+55,0:53.00,QQGG BroadwayBRETT,MildCaucazian,weapon,dead
+56,0:53.00,HiiiPeracTive,The-Phoenix,weapon,dead
+57,0:53.00,CXMKleitonLyzFole,SmellyAfricans,weapon,dead
+58,0:53.00,[QQGG BroadwayBRETT,MildCaucazian,weapon,dead
+59,0:53.00,HiiiPeracTive,The-Phoenix,weapon,dead
+60,0:54.00,CXMKleitonLyzFole,SmellyAfricans,weapon,dead
+61,0:54.00,QQGG BroadwayBRETT,MildCaucazian,weapon,dead
+62,0:54.00,HiliPeracTive,The-Phoenix,weapon,dead
+63,0:55.00,CXMKleitonLyzFole,SmellyAfricans,weapon,dead
+64,0:55.00,QQGG BroadwayBRETT,MildCaucazian,weapon,dead
+65,0:55.00,HiliPeracTive,The-Phoenix,weapon,dead
+66,0:55.00,QQGG BroadwayBRETT,MildCaucazian,weapon,dead
+67,0:56.00,QQGG BroadwayBRETT,MildCaucazian,weapon,dead
+68,0:57.00,QQGG BroadwayBRETT,MildCaucazian,weapon,dead
+69,1:15.00,Jeury,DocJonez73,weapon,dead
+70,1:16.00,Lorm,DocJonez73,weapon,dead
+71,1:18.00,CommandoBlandc,XVooDX,weapon,dead
+72,1:19.00,CommandoBlando,XVOODX,weapon,dead
+73,1:19.00,CommandoBlando,XVooDX,weapon,dead
+74,1:20.00,Nauy,DocJonez73,weapon,dead
+75,1:20.00,CommandoBlandc,XVooDX,weapon,dead
+76,1:21.00,CommandoBlando,XVooDX,weapon,dead
+77,1:21.00,Noul,DocJonez73,weapon,dead
+78,1:21.00,MoxOfWa,Coper909,weapon,dead
+79,1:21.00,CommandoBlando,XVOoDX,weapon,dead
+80,1:21.00,Neuy,DocJonez73,weapon,dead
+81,1:21.00,MoxOfWa,Coper909,weapon,dead
+82,1:22.00,CommandoBlando,XVooDX,weapon,dead
+83,1:22.00,MoxOfWa,Coper909,weapon,dead
+84,1:23.00,CommandoBlandc,XVooDX,weapon,dead
+85,1:23.00,MoxOfWar,Coper909,weapon,dead
+86,1:23.00,MoxOfWar,Coper909,weapon,dead
+87,1:23.00,mandoBland,XVooDX,weapon,dead
+88,1:23.00,DokiDoki_Yuri,ANTIDOTE1006,weapon,dead
+89,1:24.00,DokiDoki_Yuri,ANTIDOTE1006,weapon,dead
+90,1:24.00,CommandoBlando,XVooDX,weapon,dead
+91,1:25.00,MoxOfWar,Coper909,weapon,dead
+92,1:25.00,mmandoBland,XVooDX,weapon,dead
+93,1:25.00,DokiDoki_Yuri,ANTIDOTE1006,weapon,dead
+94,1:25.00,DokiDoki_Yuri,ANTIDOTE1006,weapon,dead
+95,1:25.00,loxOfWa,oper909,weapon,dead
+96,1:26.00,DokiDoki_Yuri,ANTIDOTE1006,weapon,dead
+97,1:26.00,DrDisRespect,Verteidig_en,weapon,dead
+98,1:27.00,DokiDoki_Yuri,NTIDOTE1006,weapon,dead
+99,1:27.00,DrDisRespect,Verteidig_en,weapon,dead
+100,1:27.00,MoxOfWa,oper909,weapon,dead
+101,1:27.00,CommandoBlando,RADD_TADD,weapon,dead
+102,1:27.00,CommandoBlando,RADD_TADD,weapon,dead
+103,1:27.00,DrDisRespect,Verteidig_en,weapon,dead
+104,1:27.00,DokiDoki_Yuri,ANTIDOTE1006,weapon,dead
+105,1:27.00,CXM KleitonLyzFoley,Diphrael,weapon,dead
+106,1:28.00,CXMKleitonLyzFoley,Diphrae,weapon,dead
+107,1:28.00,DrDisRespect,Verteidig_en,weapon,dead
+108,1:28.00,CommandoBlandc,RADD_TADD,weapon,dead
+109,1:28.00,DokiDoki_Yuri,ANTIDOTE1006,weapon,dead
+110,1:29.00,CXMKleitonLyzFoley,Diphrael,weapon,dead
+111,1:29.00,DrDisRespect,Verteidig_en,weapon,dead
+112,1:29.00,CommandoBlando,RADD_TADD,weapon,dead
+113,1:29.00,DokiDoki_Yuri,ANTIDOTE1006,weapon,dead
+114,1:29.00,CXM]KleitonLyzFoley,Diphrael,weapon,dead
+115,1:29.00,CommandoBlandc,RADD_TADD,weapon,dead
+116,1:29.00,LADSTheCHADdestMan,Neu,weapon,dead
+117,1:29.00,DrDisRespect,Verteidig_en,weapon,dead
+118,1:30.00,CommandoBlandc,RADD_TADD,weapon,dead
+119,1:30.00,CXM]KleitonLyzFoley,Diphrael,weapon,dead
+120,1:30.00,LADS TheCHADdestMan,Neu,weapon,dead
+121,1:30.00,DrDisRespect,Verteidig_en,weapon,dead
+122,1:31.00,CXM]KleitonLyzFoley,Diphrael,weapon,dead
+123,1:31.00,LADS TheCHADdestMan,Neur,weapon,dead
+124,1:31.00,CommandoBlandc,RADD_TADD,weapon,dead
+125,1:31.00,DrDisRespect,Verteidig_en,weapon,dead
+126,1:31.00,LADSTheCHADdestMan,leur,weapon,dead
+127,1:31.00,CommandoBlando,RADD_TADD,weapon,dead
+128,1:31.00,CXM]KleitonLyzFoley,Diphrael,weapon,dead
+129,1:31.00,DrDisRespect,Verteidig_en,weapon,dead
+130,1:32.00,LADS TheCHADdestMan,leur,weapon,dead
+131,1:32.00,CommandoBlando,RADD_TADD,weapon,dead
+132,1:32.00,CXM]KleitonLyzFoley,Diphrael,weapon,dead
+133,1:32.00,DrDisRespect,Verteidig_en,weapon,dead
+134,1:33.00,CXM]KleitonLyzFoley,Diphrael,weapon,dead
+135,1:33.00,LADSTheCHADdestMan,Neur,weapon,dead
+136,1:33.00,CommandoBlando,RADD_TADD,weapon,dead
+137,1:33.00,CommandoBlando,RADD_TADD,weapon,dead
+138,1:33.00,CommandoBlando,RADD_TADD,weapon,dead
+139,1:33.00,CXM] KleitonLyzFoley,Diphrael,weapon,dead
+140,1:34.00,LADSTheCHADdestMan,Neur,weapon,dead
+141,1:35.00,LADSTheCHADdestMan,dour,weapon,dead
+142,1:36.00,LADS TheCHADdestMan,dou,weapon,dead
+143,1:52.00,rOch,DokiDoki_Yuri,weapon,dead
+144,1:53.00,rOch,DokiDoki_Yuri,weapon,dead
+145,1:53.00,r9ch,DokiDoki_Yuri,weapon,dead
+146,1:54.00,Och,DokiDoki_Yuri,weapon,dead
+147,1:55.00,rOeh,DokiDoki Yur,weapon,dead
+148,1:55.00,r9ch,DokiDoki_Yuri,weapon,dead
+149,1:56.00,rOch,DokiDoki_Yuri,weapon,dead
+150,1:57.00,r9ch,DokiDoki_Yuri,weapon,dead
+151,1:57.00,r9ch,DokiDoki_Yuri,weapon,dead
+152,1:58.00,r9ch,DokiDoki_Yuri,weapon,dead
+153,2:15.00,Samvich_,TNCZEnqageBaleine,weapon,dead
+154,2:16.00,Samvich_,TNCZ EngageBaleine,weapon,dead
+155,2:17.00,Samvich_,[TNCZ] EngageBaleine,weapon,dead
+156,2:17.00,Samvich_,TNCZ EngageBaleine,weapon,dead
+157,2:18.00,Samvich_,TNCZ EngageBaleine,weapon,dead
+158,2:18.00,akoostik,thedimeshot,weapon,dead
+159,2:19.00,Samvich,TNCZ EngageBaleine,weapon,dead
+160,2:19.00,akoostik,thedimesnot,weapon,dead
+161,2:19.00,Samvich,[TNCZEngageBaleine,weapon,dead
+162,2:19.00,akoostik,thedimeshot,weapon,dead
+163,2:20.00,Samvich,TNCz EngageBaleine,weapon,dead
+164,2:20.00,akoostik,thedimeshot,weapon,dead
+165,2:21.00,Samvich_,TNCZ EngageBaleine,weapon,dead
+166,2:21.00,akoostik,thedimeshot,weapon,dead
+167,2:21.00,Samvich,TNCZ EngageBaleine,weapon,dead
+168,2:21.00,akoostik,thedimeshot,weapon,dead
+169,2:22.00,akoostik,thedimeshot,weapon,dead
+170,2:23.00,akoostik,thedimeshot,weapon,dead
+171,2:23.00,akoostik,thedimeshot,weapon,dead
+172,2:24.00,akoostik,thedimeshot,weapon,dead
+173,2:33.00,DAWNNN03,GamerathletesYT,weapon,dead
+174,2:33.00,NortuLuxx,ChaotikVader,weapon,dead
+175,2:33.00,WortuLuxx,ChaotikVader,weapon,dead
+176,2:34.00,WortuLuxx,ChaotikVader,weapon,dead
+177,2:35.00,WortuLuxx,ChaotikVader,weapon,dead
+178,2:35.00,WortuLuxx,ChaotikVader,weapon,dead
+179,2:36.00,ortuL,ChaotikVader,weapon,dead
+180,2:37.00,WortuLuxx,ChaotikVader,weapon,dead
+181,2:37.00,WortuLuxx,ChaotikVader,weapon,dead
+182,2:38.00,WortuLuxx,ChaotikVader,weapon,dead
+183,2:39.00,RSG Jeg_Porkins,MoxOfWar,weapon,dead
+184,2:39.00,RSG Jeg_Porkins,MoxOfWar,weapon,dead
+185,2:40.00,RSGJeg_Porkins,MoxOfWar,weapon,dead
+186,2:41.00,RSGJeg_Porkins,MoxOfWar,weapon,dead
+187,2:41.00,RSGJeg_Porkins,MoxOfWar,weapon,dead
+188,2:42.00,[RSG Jeg_Porkins,MoxOfWar,weapon,dead
+189,2:43.00,[RSG Jeg_Porkins,MoxOfWar,weapon,dead
+190,2:43.00,[RSG Jeg_Porkins,MoxOfWar,weapon,dead
+191,2:44.00,RSGJeg_Porkins,MoxOfWar,weapon,dead
+192,2:44.00,DustyMalone,r9ch,weapon,dead
+193,2:45.00,RSGJeg_Porkins,MoxOfWar,weapon,dead
+194,2:45.00,DustyMalone,rOcb,weapon,dead
+195,2:45.00,RSG Jeg_Porkins,MoxOfWar,weapon,dead
+196,2:45.00,DustyMalone,rOcb,weapon,dead
+197,2:46.00,DustyMalone,r9ch,weapon,dead
+198,2:47.00,DustyMalone,r9ch,weapon,dead
+199,2:47.00,DustyMalone,r9ch,weapon,dead
+200,2:48.00,DustyMalone,r9ch,weapon,dead
+201,2:49.00,DustyMalone,r9ch,weapon,dead
+202,2:49.00,DustyMalone,r9ch,weapon,dead
+203,2:50.00,DustyMalone,r9ch,weapon,dead
+204,2:51.00,Tort_aka_TheDog,Koalas-Are-Cool,weapon,dead
+205,2:51.00,Tort_aka_TheDog,Koalas-Are-Cool,weapon,dead
+206,2:52.00,Tort_aka_TheDog,Koalas-Are-Coo,weapon,dead
+207,2:53.00,Tort_aka_TheDog,Koalas-Are-Cool,weapon,dead
+208,2:53.00,Tort_aka_TheDog,Koalas-Are-Coo,weapon,dead
+209,2:54.00,Tort_aka_TheDog,Koalas-Are-Coo,weapon,dead
+210,2:55.00,Tort_aka_TheDog,Koalas-Are-Coo,weapon,dead
+211,2:55.00,Tort_aka_TheDog,Koalas-Are-Coo,weapon,dead
+212,2:56.00,Tort aka_TheDog,Koalas-Are-Cool,weapon,dead
+213,2:57.00,Tort_aka_TheDog,Koalas-Are-Coo,weapon,dead
+214,2:59.00,69_Aidan,DustvMalone,weapon,dead
+215,2:59.00,69_Aidan,DustyMalone,weapon,dead
+216,3:0.00,69_Aidan,DustyMalone,weapon,dead
+217,3:1.00,69_Aidan,DustyMalone,weapon,dead
+218,3:1.00,69_Aidan,DustyMalone,weapon,dead
+219,3:2.00,69_Aidan,DustyMalone,weapon,dead
+220,3:3.00,69_Aidan,DustyMalone,weapon,dead
+221,3:3.00,69_Aidan,DustyMalone,weapon,dead
+222,3:4.00,69_Aidan,DustyMalone,weapon,dead
+223,3:5.00,69_Aidan,DustyMalone,weapon,dead
+224,3:5.00,HiliPeracTive,Tazmin,weapon,dead
+225,3:5.00,HiliPeracTive,Tazmin,weapon,dead
+226,3:6.00,HiliPeracTive,Tazmin,weapon,dead
+227,3:7.00,HiliPeracTive,Tazmin,weapon,dead
+228,3:7.00,HiiiPeracTive,Tazmin,weapon,dead
+229,3:8.00,HiiiPeracTive,Tazmin,weapon,dead
+230,3:9.00,HiliPeracTive,Tazmin,weapon,dead
+231,3:9.00,HiiPeracTive,Tazmin,weapon,dead
+232,3:10.00,HiiiPeracTive,Tazmin,weapon,dead
+233,3:11.00,HiiiPeracTive,Tazmin,weapon,dead
+234,3:11.00,Wekkd,Tonleaka TiheDog,knock,knock
+235,3:13.00,Wckko,Tort_aka TheDog,knock,knock
+236,3:14.00,DerpmJ,HiiiPeracTive,weapon,dead
+237,3:15.00,Jerpm.,HiiiPeracTive,weapon,dead
+238,3:15.00,DerpmJi,HiiiPeracTive,weapon,dead
+239,3:16.00,DerpmJ,HiiiPeracTive,weapon,dead
+240,3:17.00,CXM] KleitonLyzFoley,IZRA-03,weapon,dead
+241,3:17.00,DerpmJ,HiiiPeracTive,weapon,dead
+242,3:17.00,zxphvr,[QQGG] BroadwayBRETT,weapon,dead
+243,3:17.00,CXMKleitonLyzFoley,IZRA-03,weapon,dead
+244,3:17.00,DerpmJi,HiiiPeracTive,weapon,dead
+245,3:18.00,CXM] KleitonLyzFoley,IZRA-03,weapon,dead
+246,3:19.00,CXMKleitonLyzFoley,IZRA-03,weapon,dead
+247,3:19.00,CXMKleitonLyzFoley,IZRA-03,weapon,dead
+248,3:20.00,CXM KleitonLyzFole,IZRA-03,weapon,dead
+249,3:20.00,DerpmJi,HiiPeracTive,weapon,dead
+250,3:21.00,CXMKleitonLyzFoley,IZRA-03,weapon,dead
+251,3:21.00,DerpmJi,PeracTive,weapon,dead
+252,3:21.00,[CXM] KleitonLyzFoley,IZRA-03,weapon,dead
+253,3:21.00,zxphyr,[QQGG] BroadwayBRETT,weapon,dead
+254,3:22.00,zxphyr,QQGG BroadwayBRETT,weapon,dead
+255,3:22.00,CXMKleitonLyzFoley,IZRA-03,weapon,dead
+256,3:23.00,CXMKleitonLyzFole,IZRA-03,weapon,dead
+257,3:23.00,zxphyrr,[QQGG] BroadwayBRETT,weapon,dead
+258,3:23.00,zxphyrr,[QQGG] BroadwayBRETT,weapon,dead
+259,3:23.00,MKleitonLyzFoley,IZRA-03,weapon,dead
+260,3:26.00,CXM KleitonLyzFole,FARTDrDumper,weapon,dead
+261,3:27.00,CXM KleitonLyzFole,FART DrDumper,weapon,dead
+262,3:27.00,CXMKleitonLyzFoley,FART DrDumper,weapon,dead
+263,3:28.00,CXMKleitonLyzFole,FARTDrDumper,weapon,dead
+264,3:29.00,CXM KleitonLyzFole,FARTDrDumper,weapon,dead
+265,3:29.00,CXMKleitonLyzFole,FARTDrDumper,weapon,dead
+266,3:30.00,CXMKleitonLyzFole,FART]DrDumper,weapon,dead
+267,3:31.00,CXMKleitonLyzFole,FART]DrDumper,weapon,dead
+268,3:31.00,CXMKleitonLyzFole,FARTDrDumper,weapon,dead
+269,3:32.00,CXM]KleitonLyzFoley,FARTDrDumper,weapon,dead
+270,3:43.00,Lindershoes,SoulReaper268,weapon,dead
+271,3:48.00,Undershoes,SoulReaper268,weapon,dead
+272,3:49.00,Undershoes,SoulReaper268,weapon,dead
+273,3:49.00,eansanc,SHaoOKhAAN,weapon,dead
+274,3:49.00,Undershoes,SoulReaper268,weapon,dead
+275,3:51.00,Jeansan,SHaoOKhAAN,weapon,dead
+276,4:32.00,akoosti,Nokk,weapon,dead
+277,4:35.00,akoostil,Mokk,weapon,dead
+278,4:38.00,GSDU TayTor,ItsMcWhorter,weapon,dead
+279,4:39.00,GSDU] TayTor,ItsMcWhorter,weapon,dead
+280,4:39.00,akoostik,Tort_aka_TheDog,weapon,dead
+281,4:39.00,[GSDU] TayTor,ItsMcWhorter,weapon,dead
+282,4:39.00,akoostik,Tort_aka_TheDog,weapon,dead
+283,4:40.00,[GSDU] TayTor,ItsMcWhorter,weapon,dead
+284,4:40.00,akoostik,Tort_aka_TheDog,weapon,dead
+285,4:41.00,[GSDU TayTor,ItsMcWhorter,weapon,dead
+286,4:41.00,akoostik,Tort_aka_TheDog,weapon,dead
+287,4:41.00,GSDU] TayTor,ItsMcWhorter,weapon,dead
+288,4:41.00,akoostik,Tort_aka_TheDog,weapon,dead
+289,4:42.00,GSDU]TayTor,ItsMeWhorter,weapon,dead
+290,4:42.00,akoostik,Tort_aka_TheDog,weapon,dead
+291,4:43.00,GSDU] TayTor,ItsMeWhorter,weapon,dead
+292,4:43.00,akoostik,Tort_aka_TheDog,weapon,dead
+293,4:43.00,[GSDU] TayTor,ItsMeWhorter,weapon,dead
+294,4:43.00,akoostik,Tort_aka_TheDog,weapon,dead
+295,4:44.00,akoostik,Tort_aka_TheDog,weapon,dead
+296,4:44.00,IGSDUl TavTor,ItsMeWhorter,weapon,dead
+297,4:45.00,GSDU TayTor,ItsMeWhorter,weapon,dead
+298,4:45.00,akoostik,Tort_aka_TheDog,weapon,dead
+299,4:45.00,akoostik,Tort_aka_TheDog,weapon,dead
+300,5:19.00,Sh33na,zxphyrr,weapon,dead
+301,5:20.00,Sh33na,zxphyr,weapon,dead
+302,5:21.00,Sh33na,zxphyr,weapon,dead
+303,5:21.00,Sh33na,zxphyr,weapon,dead
+304,5:22.00,Sh33na,zxphyrr,weapon,dead
+305,5:23.00,Sh33na,zxphyrr,weapon,dead
+306,5:24.00,Sh33na,zxphyrr,weapon,dead
+307,5:25.00,Sh33na,zxphyrr,weapon,dead
+308,5:25.00,Sh33na,ZXDOVE,weapon,dead
+309,5:26.00,GSDU TayTor,singningduck,weapon,dead
+310,5:27.00,GSDU] TayTor,singningduck,weapon,dead
+311,5:27.00,GSDU TayTor,singningduck,weapon,dead
+312,5:28.00,GSDU TayTor,singningduc.,weapon,dead
+313,5:29.00,[GSDU] TayTor,singningduck,weapon,dead
+314,5:29.00,[GSDU] TayTor,singningduck,weapon,dead
+315,5:30.00,[GSDU] TayTor,singningduck,weapon,dead
+316,5:31.00,[GSDU] TayTor,singningduck,weapon,dead
+317,5:31.00,[GSDU] TayTor,singningduck,weapon,dead
+318,5:31.00,DannyUncanny,DerpmJ,weapon,dead
+319,5:32.00,GSDU] TayTor,singningduck,weapon,dead
+320,5:32.00,DannyUncanny,DerpmJ,weapon,dead
+321,5:33.00,DannyUncanny,DerpmJ,weapon,dead
+322,5:33.00,GSDU]TayTor,singningduck,weapon,dead
+323,5:33.00,DannyUncanny,DerpmJ,weapon,dead
+324,5:34.00,annyUncanny,DerpmJ,weapon,dead
+325,5:34.00,69_Aidan,DAME,weapon,dead
+326,5:35.00,DannyUncanny,DerpmJ,weapon,dead
+327,5:35.00,69_Aidan,DAME,weapon,dead
+328,5:35.00,DannyUncanny,DerpmJi,weapon,dead
+329,5:35.00,69_Aidan,DAME,weapon,dead
+330,5:36.00,annyUncanny,DerpmJ,weapon,dead
+331,5:36.00,69_Aidan,DAME.,weapon,dead
+332,5:37.00,annyUncanny,DerpmJi,weapon,dead
+333,5:37.00,69_Aidan,DAME.,weapon,dead
+334,5:37.00,DannyUncanny,DerpmJi,weapon,dead
+335,5:37.00,69_Aidan,DAME,weapon,dead
+336,5:38.00,69_Aidan,DAME,weapon,dead
+337,5:39.00,69_Aidan,DAME,weapon,dead
+338,5:39.00,69.Aidan,DAME_,weapon,dead
+339,5:40.00,69_Aidan,DAME_,weapon,dead
+340,5:48.00,DaOverkill,Schw1fty,weapon,dead
+341,5:49.00,DaOverkil,Schw1fty,weapon,dead
+342,5:49.00,DaOverkill,Schw1fty,weapon,dead
+343,5:50.00,DaOverkill,Schw1fty,weapon,dead
+344,5:51.00,DaOverkill,Schw1fty,weapon,dead
+345,5:51.00,DaOverkill,Schw1fty,weapon,dead
+346,5:52.00,DaOverkill,Schw1fty,weapon,dead
+347,5:53.00,CXM KleitonLyzFoley,DEVILEKILLER,weapon,dead
+348,5:53.00,DaOverkil,Schw1fty,weapon,dead
+349,5:53.00,CXM KleitonLyzFole,DEVILEKILLER,weapon,dead
+350,5:53.00,DaOverkill,Schw1fty,weapon,dead
+351,5:54.00,CXM KleitonLyzFole,DEVILEKILLER,weapon,dead
+352,5:54.00,DaOverki,Schw1fty,weapon,dead
+353,5:55.00,CXM KleitonLyzFoley,DEVILEKILLER,weapon,dead
+354,5:55.00,DaOverkil,Schw1fty,weapon,dead
+355,5:55.00,CXMKleitonLyzFoley,DEVILEKILLER,weapon,dead
+356,5:56.00,CXM KleitonLyzFoley,DEVILEKILLER,weapon,dead
+357,5:57.00,CXM KleitonLyzFoley,DEVILEKILLER,weapon,dead
+358,5:57.00,CXMKleitonLvzFolev,DEVILEKILLER,weapon,dead
+359,5:58.00,CXMKleitonLyzFoley,DEVILEKILLER,weapon,dead
+360,5:59.00,CXMKleitonLyzFole,DEVILEKILLER,weapon,dead
+361,6:27.00,DrDisRespect,CXMKleitonLyzFole,weapon,dead
+362,6:27.00,DrDisRespect,CXMl KleitonLvzFoley,weapon,dead
+363,6:28.00,DrDisRespect,CXMKleitonLyzFoley,weapon,dead
+364,6:29.00,DrDisRespect,CXM KleitonLyzFoley,weapon,dead
+365,6:29.00,DrDisRespect,CXMKleitonLyzFoley,weapon,dead
+366,6:30.00,DrDisRespect,CXM KleitonLyzFoley,weapon,dead
+367,6:31.00,DrDisRespect,CXMKleitonLyzFoley,weapon,dead
+368,6:31.00,DrDisRespect,CXM]KleitonLyzFoley,weapon,dead
+369,6:32.00,DrDisRespect,CXM]KleitonLyzFoley,weapon,dead
+370,6:33.00,DrDisRespect,CXM KleitonLyzFoley,weapon,dead
+371,6:33.00,DrDisRespect,CXMKleitonLyzFoley,weapon,dead
+372,6:57.00,DrDisRespect,FuckYouBaki,weapon,dead
+373,6:58.00,DrDisRespect,FuckYouBaki,weapon,dead
+374,6:59.00,DrDisRespect,FuckYouBaki,weapon,dead
+375,6:59.00,DrDisRespect,FuckYouBaki,weapon,dead
+376,7:0.00,DrDisRespect,FuckYouBaki,weapon,dead
+377,7:1.00,DrDisRespect,FuckYouBaki,weapon,dead
+378,7:1.00,DrDisRespect,FuckYouBaki,weapon,dead
+379,7:2.00,DrDisRespect,FuckYouBaki,weapon,dead
+380,7:3.00,DrDisRespect,FuckYouBaki,weapon,dead
+381,7:3.00,DrDisRespect,FuckYouBaki,weapon,dead
+382,7:7.00,WortuLuxx,DannyUncanmy,weapon,dead
+383,7:7.00,WortuLuxx,DannyUncanny,weapon,dead
+384,7:8.00,WortuLuxx,DannyUncanny,weapon,dead
+385,7:53.00,GSDU TayTor,Snarfari,weapon,dead
+386,7:54.00,GSDUTavTor,Snarfari,weapon,dead
+387,7:55.00,GSDUTayTor,Snarfari,weapon,dead
+388,7:55.00,GSDU TayTor,Snarfari,weapon,dead
+389,7:56.00,GSDU TayTor,Snarfari,weapon,dead
+390,7:57.00,[GSDUTayTor,Snarfari,weapon,dead
+391,7:57.00,GSDU TayTor,Snarfari,weapon,dead
+392,7:58.00,GSDUTayTor,Snarfari,weapon,dead
+393,7:58.00,KodaTheDoge,GSDU TayTor,weapon,dead
+394,7:59.00,KodaTheDoge,GSDU TayTor,weapon,dead
+395,7:59.00,GSDU TayTor,narfar,weapon,dead
+396,7:59.00,KodaTheDoge,[GSDU] TayTor,weapon,dead
+397,7:59.00,GSDUTayTor,Snarfari,weapon,dead
+398,8:0.00,[GSDU TayTor,Snarfari,weapon,dead
+399,8:0.00,KodaTheDoge,GSDUTayTor,weapon,dead
+400,8:1.00,KodaTheDoge,[GSDU] TayTor,weapon,dead
+401,8:1.00,KodaTheDoge,GSDU TayTor,weapon,dead
+402,8:2.00,KodaTheDoge,GSDU TayTor,weapon,dead
+403,8:3.00,KodaTheDoge,[GSDU] TayTor,weapon,dead
+404,8:3.00,KodaTheDoge,GSDU TayTor,weapon,dead
+405,8:4.00,KodaTheDoge,GSDU TayTor,weapon,dead
+406,8:15.00,HEBRICKTAMLAND,TheMilkMan,weapon,dead
+407,8:16.00,THEBRICKTAMLAND,TheMilkMan,weapon,dead
+408,8:17.00,THEBRICKTAMLAND,TheMilkMan,weapon,dead
+409,8:17.00,THEBRICKTAMLAND,TheMilkMan,weapon,dead
+410,8:18.00,THEBRICKTAMLAND,TheMilkMan,weapon,dead
+411,8:19.00,THEBRICKTAMLAND,TheMilkMan,weapon,dead
+412,8:19.00,THEBRICKTAMLAND,TheMilkMan,weapon,dead
+413,8:20.00,THEBRICKTAMLAND,TheMilkMan,weapon,dead
+414,8:21.00,HEBRICKTAMLAND,TheMilkMan,weapon,dead
+415,8:21.00,THEBRICKTAMLAND,TheMilkMan,weapon,dead
+416,9:31.00,DrDisRespect,LiveAndLearn123,weapon,dead
+417,9:32.00,DrDisRespect,LiveAndLearn123,weapon,dead
+418,9:33.00,DrDisRespect,LiveAndLearn123,weapon,dead
+419,9:33.00,DrDisRespect,LiveAndLearn123,weapon,dead
+420,9:34.00,DisRespect,LiveAndLearn123,weapon,dead
+421,9:34.00,DaOverkill,Mamalickabooboo,weapon,dead
+422,9:39.00,DaOverkill,Mamalickabooboo,weapon,dead
+423,9:40.00,DaOverkill,Mamalickabooboo,weapon,dead
+424,9:43.00,ONME,aryer,weapon,dead
+425,9:50.00,DNME,DaOverkill,weapon,dead
+426,10:41.00,pa-chow,KodaTheDoge,weapon,dead
+427,10:42.00,pa-chow,KodaTheDoge,weapon,dead
+428,10:43.00,pa-chow,KodaTheDoge,weapon,dead
+429,10:43.00,notHaACKINGtv,akoostik,weapon,dead
+430,10:43.00,pa-chow,KodaTheDoge,weapon,dead
+431,10:43.00,notHaACKINGty,akoostik,weapon,dead
+432,10:44.00,pa-chow,KodaTheDoge,weapon,dead
+433,10:44.00,notHaACKINGtv,akoostik,weapon,dead
+434,10:45.00,pa-chow,KodaTheDoge,weapon,dead
+435,10:45.00,notHaACKINGtv,akoostik,weapon,dead
+436,10:45.00,pa-chow,KodaTheDoge,weapon,dead
+437,10:45.00,notHaACKINGtv,akoostik,weapon,dead
+438,10:46.00,pa-chow,KodaTheDoge,weapon,dead
+439,10:46.00,notHaACKINGtv,akoostik,weapon,dead
+440,10:47.00,pa-chow,KodaTheDoge,weapon,dead
+441,10:47.00,notHaACKINGtv,akoostik,weapon,dead
+442,10:47.00,pa-chow,KodaTheDoge,weapon,dead
+443,10:47.00,notHaACKINGty,akoostik,weapon,dead
+444,10:48.00,pa-chow,KodaTheDoge,weapon,dead
+445,10:48.00,notHaACKINGtv,akoostik,weapon,dead
+446,10:49.00,notHaACKINGty,akoostik,weapon,dead
+447,10:53.00,THEBRICKTAMLAND,Himselfmessi,weapon,dead
+448,10:53.00,THEBRICKTAMLAND,Himselfmessi,weapon,dead
+449,10:54.00,THEBRICKTAMLAND,Himselfmessi,weapon,dead
+450,10:55.00,THEBRICKTAMLAND,Himselfmessi,weapon,dead
+451,10:55.00,THEBRICKTAMLAND,Himselfmessi,weapon,dead
+452,10:56.00,THEBRICKTAMLAND,Himselfmessi,weapon,dead
+453,10:57.00,HEBRICKTAMLANI,Himselfmessi,weapon,dead
+454,10:57.00,IEBRICKTAMLA,Himselfmessi,weapon,dead
+455,10:58.00,HEBRICKTAMLAND,Himselfmessi,weapon,dead
+456,10:59.00,THEBRICKTAMLAND,Himselfmessi,weapon,dead
+457,10:59.00,THEBRICKTAMLAND,Himselfmessi,weapon,dead
+458,10:59.00,Samvich_,LADSTheCHADdestMan,weapon,dead
+459,11:0.00,Samvich_,LADS TheCHADdestMan,weapon,dead
+460,11:1.00,Samvich_,LADS TheCHADdestMan,weapon,dead
+461,11:1.00,Samvich_,LADS TheCHADdestMan,weapon,dead
+462,11:2.00,Samvich_,LADS TheCHADdestMan,weapon,dead
+463,11:3.00,Samvich_,LADS TheCHADdestMan,weapon,dead
+464,11:3.00,Samvich_,LADS TheCHADdestMan,weapon,dead
+465,11:4.00,Samvich_,LADS TheCHADdestMan,weapon,dead
+466,11:5.00,Samvich,LADSTheCHADdestMan,weapon,dead
+467,11:5.00,Samvich_,LADSTheCHADdestMar,weapon,dead
+468,11:6.00,Dehlaw,Samvich_,weapon,dead
+469,11:7.00,Dehlaw,Samvich_,weapon,dead
+470,11:7.00,Dehlaw,Samvich_,weapon,dead
+471,11:8.00,Dehlaw,amvich,weapon,dead
+472,11:9.00,Dehlaw,Samvich_,weapon,dead
+473,11:9.00,Dehlaw,Samvich,weapon,dead
+474,11:10.00,Dehlaw,Samvich,weapon,dead
+475,11:11.00,Dehlaw,Samvich,weapon,dead
+476,11:11.00,Dehlaw,Samvich_,weapon,dead
+477,11:16.00,THEBRICKTAMLAND,Henrikess,weapon,dead
+478,11:17.00,THEBRICKTAMLAND,Henrikess,weapon,dead
+479,11:17.00,THEBRICKTAMLAND,Henrikess,weapon,dead
+480,11:18.00,THEBRICKTAMLANL,Henrikess,weapon,dead
+481,11:19.00,THEBRICKTAMLAND,Henrikess,weapon,dead
+482,11:19.00,THEBRICKTAMLAND,Henrikess,weapon,dead
+483,11:20.00,THEBRICKTAMLAND,Henrikess,weapon,dead
+484,11:21.00,THEBRICKTAMLAND,Henrikess,weapon,dead
+485,11:21.00,THEBRICKTAMLAND,Henrikess,weapon,dead
+486,11:22.00,THEBRICKTAMLAND,Henrikess,weapon,dead
+487,12:24.00,notHaACKINGty,HEBRICKTAMLAN,weapon,dead
+488,12:25.00,notHaACKINGty,HEBRICKTAMLANI,weapon,dead
+489,12:26.00,notHaACKINGtv,HEBRICKTAMLAND,weapon,dead
+490,12:27.00,notHaACKINGtv,HEBRICKTAMLAND,weapon,dead
+491,12:27.00,notHaACKINGtv,THEBRICKTAMLAND,weapon,dead
+492,12:28.00,notHaACKINGt,HEBRICKTAMLAND,weapon,dead
+493,12:29.00,notHaACKINGtv,THEBRICKTAMLAND,weapon,dead
+494,12:29.00,notHaACKINGtv,HEBRICKTAMLAND,weapon,dead
+495,12:30.00,notHaACKINGtv,THEBRICKTAMLAND,weapon,dead
+496,12:31.00,Sh33na,Arin_Yusuke,weapon,dead
+497,12:32.00,Sh33na,Arin_Yusuke,weapon,dead
+498,12:33.00,Sh33na,Arin_Yusuke,weapon,dead
+499,12:33.00,Sh33na,Arin_Yusuke,weapon,dead
+500,12:34.00,Sh33na,Arin_Yusuke,weapon,dead
+501,12:35.00,Sh33na,Arin_Yusuke,weapon,dead
+502,12:35.00,Sh33na,Arin_Yusuke,weapon,dead
+503,12:36.00,Sh33na,Arin_Yusuke,weapon,dead
+504,12:37.00,Sh33na,Arin_Yusuke,weapon,dead
+505,12:37.00,Sh33na,Arin_Yusuke,weapon,dead
+506,12:56.00,notHaACKINGty,itsjustpapasmurt,weapon,dead
+507,12:57.00,notHaACKINGty,itsjustpapasmurt,weapon,dead
+508,12:57.00,notHaACKINGty,itsjustpapasmurf,weapon,dead
+509,12:58.00,notHaACKINGty,itsjustpapasmurt,weapon,dead
+510,12:59.00,notHaACKINGt,itsjustpapasmurt,weapon,dead
+511,12:59.00,notHaACKINGty,itsjustpapasmurt,weapon,dead
+512,13:0.00,notHaACKINGt,itsjustpapasmurf,weapon,dead
+513,13:1.00,notHaACKINGty,itsjustoapasmun,weapon,dead
+514,13:1.00,ThoCarnonWoll,Dehlsw,weapon,dead
+515,13:1.00,notHaACKINGty,itsjustpapasmurf,weapon,dead
+516,13:1.00,TheCarbonWoll,Dehlaw,weapon,dead
+517,13:2.00,notHaACKINGty,itsjustpapasmurf,weapon,dead
+518,13:2.00,TheCarbonWoll,Dehlaw,weapon,dead
+519,13:3.00,notHaACKINGty,tsjustpapasmun,weapon,dead
+520,13:3.00,TheCarbonWol,Dehlaw,weapon,dead
+521,13:3.00,TheCarbonWolf,Dehlaw,weapon,dead
+522,13:4.00,TheCarbonWol,Dehlaw,weapon,dead
+523,13:5.00,TheCarbonWolf,Dehlaw,weapon,dead
+524,13:5.00,TheCarbonWolf,Dehlaw,weapon,dead
+525,13:6.00,TheCarbonWolf,Dehlaw,weapon,dead
+526,13:7.00,TheCarbonWolf,Dehlaw,weapon,dead
+527,13:7.00,TheCarbonWol,Dehlaw,weapon,dead
+528,13:9.00,TheCarbonWolf,SUPREMEKING2121,weapon,dead
+529,13:10.00,TheCarbonWolf,SUPREMEKING2121,weapon,dead
+530,13:11.00,TheCarbonWolt,SUPREMEKING2121,weapon,dead
+531,13:11.00,TheCarbonWolf,SUPREMEKING2121,weapon,dead
+532,13:12.00,TheCarbonWolf,SUPREMEKING2121,weapon,dead
+533,13:13.00,TheCarbonWolf,SUPREMEKING2121,weapon,dead
+534,13:13.00,TheCarbonWolf,SUPREMEKING2121,weapon,dead
+535,13:14.00,TheCarbonWolf,SUPREMEKING2121,weapon,dead
+536,13:15.00,TheCarbonWolf,SUPREMEKING2121,weapon,dead
+537,13:15.00,TheCarbonWolf,SUPREMEKING2121,weapon,dead
+538,13:16.00,TheCarbonWoll,SUPREMEKING2121,weapon,dead
+539,13:21.00,TheCarbonWolf,Pharzoul,weapon,dead
+540,13:22.00,TheCarbonWolf,Pharzoul,weapon,dead
+541,13:23.00,TheCarbonWolf,Pharzoul,weapon,dead
+542,13:24.00,heCarbonWoli,Pharzoul,weapon,dead
+543,13:25.00,TheCarbonWolf,Pharzoul,weapon,dead
+544,13:25.00,TheCarbonWolf,Pharzou,weapon,dead
+545,13:26.00,TheCarbonWolf,Pharzou,weapon,dead
+546,13:27.00,TheCarbonWoll,Pharzou,weapon,dead
+547,13:27.00,TheCarbonWolf,Pharzoul,weapon,dead
+548,13:57.00,NortuLux,ynwzey,weapon,dead
+549,14:1.00,NortuLuxx,ynwzey,weapon,dead
+550,14:15.00,VortuLux,steveedo50,weapon,dead
+551,14:17.00,WortuLuxx,steveedo50,weapon,dead
+552,15:35.00,Sh33na,SensFortress,weapon,dead
+553,15:35.00,DrDisRespect,r0139,weapon,dead
+554,15:35.00,DrDisRespect,Micro1394,weapon,dead
+555,15:35.00,Sh33na,SensFortress,weapon,dead
+556,15:36.00,DrDisRespect,Micro1394,weapon,dead
+557,15:36.00,Sh33na,SensFortress,weapon,dead
+558,15:37.00,DrDisRespect,Micro1394,weapon,dead
+559,15:37.00,Sh33na,SensFortress,weapon,dead
+560,15:37.00,DrDisRespect,Micro1394,weapon,dead
+561,15:37.00,Sh33na,SensFortress,weapon,dead
+562,15:38.00,Sh33na,SensFortress,,dead
+563,15:39.00,DrDisRespect,licro1394,weapon,dead
+564,15:39.00,Sh33na,SensFortress,weapon,dead
+565,15:39.00,DrDisRespect,Micro1394,weapon,dead
+566,15:39.00,Sh33na,SensFortress,weapon,dead
+567,15:40.00,Sh33na,SensFortress,weapon,dead
+568,15:41.00,Sh33na,SensFortress,weapon,dead
+569,15:41.00,Sh33na,SensFortress,weapon,dead
+570,15:44.00,pzone,pzone,pzone,dead
+571,15:45.00,pzone,pzone,pzone,dead
+572,15:45.00,MichelDouglas,West_II,weapon,dead
+573,15:45.00,pzone,pzone,pzone,dead
+574,15:46.00,MichelDouglas,West_II,weapon,dead
+575,15:46.00,pzone,pzone,pzone,dead
+576,15:47.00,pzone,pzone,pzone,dead
+577,15:47.00,MichelDouglas,West_II,weapon,dead
+578,15:47.00,pzone,pzone,pzone,dead
+579,15:47.00,MichelDouglas,West_II,weapon,dead
+580,15:48.00,pzone,pzone,pzone,dead
+581,15:48.00,MichelDouglas,West_II,weapon,dead
+582,15:49.00,pzone,pzone,pzone,dead
+583,15:49.00,MichelDouglas,West_II,weapon,dead
+584,15:49.00,pzone,pzone,pzone,dead
+585,15:49.00,MichelDouglas,West_II,weapon,dead
+586,15:50.00,pzone,pzone,pzone,dead
+587,15:50.00,MichelDouglas,West_II,weapon,dead
+588,15:51.00,MichelDouglas,West_II,weapon,dead
+589,15:51.00,MichelDouglas,West_II,weapon,dead
+590,16:27.00,tLv.2,100%,,dead
+591,16:41.00,GrandpaStig,evasive_pickle,weapon,dead
+592,16:41.00,GrandpaStig,evasive_pickle,weapon,dead
+593,16:41.00,69_Aidan,Sh33na,weapon,dead
+594,16:42.00,GrandpaStig,evasive_pickle,weapon,dead
+595,16:42.00,69_Aidan,Sh33na,weapon,dead
+596,16:43.00,GrandpaStig,evasive_pickle,weapon,dead
+597,16:43.00,69_Aidan,Sh33na,weapon,dead
+598,16:43.00,GrandpaStig,evasive_pickle,weapon,dead
+599,16:43.00,69_Aidan,Sh33na,weapon,dead
+600,16:44.00,GrandpaStig,evasive_pickle,weapon,dead
+601,16:44.00,69_Aidan,Sh33na,weapon,dead
+602,16:45.00,GrandpaStig,evasive_pickle,weapon,dead
+603,16:45.00,69_Aidan,Sh33na,weapon,dead
+604,16:45.00,GrandpaStig,evasive_pickle,weapon,dead
+605,16:45.00,69_Aidan,Sh33na,weapon,dead
+606,16:46.00,GrandpaStig,evasive_pickle,weapon,dead
+607,16:46.00,69_Aidan,Sh33na,weapon,dead
+608,16:47.00,GrandpaStig,evasive_pickle,weapon,dead
+609,16:47.00,69_Aidan,Sh33na,weapon,dead
+610,16:47.00,69_Aidan,Sh33na,weapon,dead
+611,16:57.00,chickentendie,VortuLux,,dead
+612,16:59.00,CommandoBlando,pa-chow,weapon,dead
+613,16:59.00,CommandoBlando,pa-chow,weapon,dead
+614,16:59.00,chickentendie,Yortulu,,dead
+615,17:0.00,CommandoBlando,pa-chow,weapon,dead
+616,17:0.00,chickentendie,VortuLux,,dead
+617,17:1.00,CommandoBlando,pa-chow,weapon,dead
+618,17:1.00,chickentendie,VortuLux,,dead
+619,17:1.00,CommandoBlando,pa-chow,weapon,dead
+620,17:1.00,chickentendie,VortuLux,,dead
+621,17:2.00,CommandoBlando,pa-chow,weapon,dead
+622,17:2.00,chickentendie,VortuLux,,dead
+623,17:3.00,CommandoBlando,pa-chow,weapon,dead
+624,17:3.00,CommandoBlando,pa-chow,weapon,dead
+625,17:4.00,CommandoBlando,pa-chow,weapon,dead
+626,17:5.00,CommandoBlando,pa-chow,weapon,dead
+627,18:11.00,Cradlestone,Cradlestone,fell,dead
+628,18:12.00,Cradlestone,Cradlestone,fell,dead
+629,18:13.00,Cradlestone,Cradlestone,fell,dead
+630,18:16.00,Cradlestone,radlestone,fell,dead
+631,18:17.00,Cradlestone,radlestone,fell,dead
+632,18:17.00,Cradlestone,Cradlestone,fell,dead
+633,18:26.00,69_Aidan,DutchGuy91,weapon,dead
+634,18:27.00,NKD]ItsMackie,Undershoes,weapon,dead
+635,18:27.00,69_Aidan,DutchGuy91,weapon,dead
+636,18:27.00,NKD]ItsMackie,Undershoes,weapon,dead
+637,18:27.00,69_Aidan,DutchGuy91,weapon,dead
+638,18:28.00,NKD]ItsMackie,Undershoes,weapon,dead
+639,18:28.00,69_Aidan,DutchGuy91,weapon,dead
+640,18:29.00,NKD]ItsMackie,Undershoes,weapon,dead
+641,18:29.00,69_Aidan,DutchGuy91,weapon,dead
+642,18:29.00,NKD]ItsMackie,Indershoes,weapon,dead
+643,18:29.00,69_Aidan,utchGuy91,weapon,dead
+644,18:30.00,NKD]ItsMackie,Indershoes,weapon,dead
+645,18:30.00,69_Aidan,utchGuy91,weapon,dead
+646,18:31.00,NKD]ItsMackie,Indershoes,weapon,dead
+647,18:31.00,69_Aidan,DutchGuy91,weapon,dead
+648,18:31.00,NKD]ItsMackie,Jndershoes,weapon,dead
+649,18:31.00,69_Aidan,utchGuy91,weapon,dead
+650,18:32.00,NKD]ItsMackie,Undershoes,weapon,dead
+651,18:32.00,69_Aidan,utchGuy9,weapon,dead
+652,18:33.00,NKD ItsMackie,Undershoes,weapon,dead
+653,18:41.00,www420nk,69_Aidan,weapon,dead
+654,18:41.00,vWw420nk,69_Aidan,weapon,dead
+655,18:42.00,vWw420nk,69_Aidan,weapon,dead
+656,18:43.00,wW W420nk,69_Aidan,weapon,dead
+657,18:43.00,wWW420nk,69_Aidan,weapon,dead
+658,18:44.00,w420nk,69_Aidan,weapon,dead
+659,18:45.00,ww w420nk,69_Aidan,weapon,dead
+660,18:45.00,ww w420nk,69_Aidan,weapon,dead
+661,18:46.00,WW w420nk,NKD ItsMackie,weapon,dead
+662,18:46.00,WwW420nk,69_Aidan,weapon,dead
+663,18:47.00,WW w420nk,NKD ItsMackie,weapon,dead
+664,18:47.00,Ww W420nk,69_Aidan,weapon,dead
+665,18:47.00,WW w420nk,NKD ItsMackie,weapon,dead
+666,18:48.00,w420nk,NKD ItsMackie,weapon,dead
+667,18:49.00,vWw420nk,NKD ItsMackie,weapon,dead
+668,18:50.00,WW] w420nk,ItsMackie,weapon,dead
+669,18:51.00,1W420n,NKDl ItsMackie,weapon,dead
+670,18:51.00,1W420nh,NKDI ItsMackie,weapon,dead
+671,18:52.00,VWW420nk,NKDItsMackie,weapon,dead
+672,18:53.00,wW] w420nk,NKD]ItsMackie,weapon,dead
+673,19:56.00,Cleansanch,TheCarbonWolf,weapon,dead
+674,19:57.00,Cleansanch,TheCarbonWolf,weapon,dead
+675,19:59.00,Cleansanch,TheCarbonWolf,weapon,dead
+676,19:59.00,leansanc,TheCarbonWol,weapon,dead
+677,20:0.00,Cleansanch,TheCarbonWoll,weapon,dead
+678,20:0.00,DrDisRespect,notHaACKINGtv,weapon,dead
+679,20:1.00,Cleansanch,TheCarbonWolf,weapon,dead
+680,20:1.00,DrDisRespect,notHaACKINGtv,weapon,dead
+681,20:1.00,Cleansanch,TheCarbonWolf,weapon,dead
+682,20:1.00,DrDisRespect,notHaACKINGtv,weapon,dead
+683,20:2.00,Cleansanci,TheCarbonWol,weapon,dead
+684,20:2.00,DrDisRespect,notHaACKINGtv,weapon,dead
+685,20:3.00,Cleansanch,TheCarbonWol,weapon,dead
+686,20:3.00,DrDisRespect,notHaACKINGt,weapon,dead
+687,20:3.00,DrDisRespect,notHaACKINGt,weapon,dead
+688,20:4.00,DrDisRespect,notHaACKINGtv,weapon,dead
+689,20:5.00,DrDisRespect,notHaACKINGtv,weapon,dead
+690,20:5.00,DrDisRespect,notHaACKINGty,weapon,dead
+691,20:6.00,DrDisRespect,notHaACKINGty,weapon,dead
+692,20:15.00,CommandoBlando,DoomBelly,weapon,dead
+693,20:16.00,CommandoBlando,DoomBelly,weapon,dead
+694,20:17.00,CommandoBlando,DoomBell,weapon,dead
+695,20:17.00,CommandoBlandc,DoomBell,weapon,dead
+696,20:17.00,Cleansanch,H20wolfman,weapon,dead
+697,20:18.00,CommandoBlandc,DoomBell,weapon,dead
+698,20:18.00,Cleansanch,H20wolfman,weapon,dead
+699,20:19.00,CommandoBlandc,DoomBell,weapon,dead
+700,20:19.00,Cleansanch,H20wolfman,weapon,dead
+701,20:19.00,CommandoBlandc,DoomBell,weapon,dead
+702,20:20.00,CommandoBlando,DoomBell,weapon,dead
+703,20:21.00,CommandoBlando,DoomBell,weapon,dead
+704,20:21.00,Cleansanch,H20wolfman,weapon,dead
+705,20:21.00,Cleansanch,H20wolfman,weapon,dead
+706,20:22.00,Cleansanch,H20wolfman,weapon,dead
+707,20:23.00,eansanc,H20wolfman,weapon,dead
+708,20:23.00,Cleansanch,H20wolfman,weapon,dead
+709,20:24.00,Cleansanch,H20wolfman,weapon,dead
+710,21:1.00,MichelDouglas,GrandpaStig,weapon,dead
+711,21:1.00,MichelDouglas,GrandpaStig,weapon,dead
+712,21:2.00,MichelDouglas,GrandpaStig,weapon,dead
+713,21:3.00,MichelDouglas,GrandpaStig,weapon,dead
+714,21:3.00,MichelDouglas,GrandpaStig,weapon,dead
+715,21:4.00,MichelDouglas,GrandpaStig,weapon,dead
+716,21:5.00,MichelDouglas,GrandpaStig,weapon,dead
+717,21:5.00,MichelDouglas,GrandpaStig,weapon,dead
+718,21:6.00,MichelDouglas,GrandpaStig,weapon,dead
+719,21:7.00,MichelDouglas,GrandpaStig,weapon,dead
+720,21:49.00,CommandoBlando,chickentendie,weapon,dead
+721,21:49.00,CommandoBlando,chickentendie,weapon,dead
+722,21:50.00,CommandoBlando,chickentendie,weapon,dead
+723,21:51.00,CommandoBlando,chickentendie,weapon,dead
+724,21:51.00,CommandoBlando,chickentendie,weapon,dead
+725,21:52.00,CommandoBlando,chickentendie,weapon,dead
+726,21:53.00,CommandoBlandc,chickentendie,weapon,dead
+727,21:53.00,CommandoBlando,chickentendie,weapon,dead
+728,21:54.00,CommandoBlando,chickentendie,weapon,dead
+729,21:55.00,CommandoBlando,chickentendie,weapon,dead
+730,22:35.00,DrDisRespect,CommandoBlando,weapon,dead
+731,22:35.00,DrDisRespect,CommandoBlando,weapon,dead
+732,22:36.00,DrDisRespect,CommandoBlando,weapon,dead
+733,22:37.00,DrDisRespect,CommandoBlando,weapon,dead
+734,22:37.00,DrDisRespect,CommandoBlandc,weapon,dead
+735,22:38.00,DrDisRespect,CommandoBlandc,weapon,dead
+736,22:39.00,DrDisRespect,CommandoBlando,weapon,dead
+737,22:39.00,DrDisRespect,CommandoBlando,weapon,dead
+738,22:40.00,DrDisRespect,CommandoBlandc,weapon,dead
+739,22:41.00,DrDisRespect,CommandoBlando,weapon,dead
+740,22:41.00,DrDisRespect,CommandoBlandc,weapon,dead
+741,23:19.00,MichelDouglas,Rakkno,weapon,dead
+742,23:19.00,MichelDouglas,Rakkno,weapon,dead
+743,23:20.00,MichelDouglas,Rakkno,weapon,dead
+744,23:21.00,MichelDouglas,Rakkno,weapon,dead
+745,23:21.00,MichelDouglas,Rakkno,weapon,dead
+746,23:22.00,MichelDouglas,Rakkno,weapon,dead
+747,23:23.00,MichelDouglas,Rakkno,weapon,dead
+748,23:23.00,MichelDouglas,Rakkno,weapon,dead
+749,23:24.00,MichelDouglas,Rakkno,weapon,dead
+750,23:25.00,MichelDouglas,Rakkno,weapon,dead
+751,23:25.00,MichelDouglas,Rakkno,weapon,dead
+752,23:35.00,DrDisRespect,RSG Jeg_Porkins,knock,knock
+753,23:39.00,DrDisResnec,RSGl Jeg Porkins,knock,knock
+754,23:45.00,DrDisRespect,RSGJeg_Porkins,weapon,dead
+755,23:46.00,DrDisRespect,RSGJeg_Porkins,weapon,dead
+756,23:47.00,DrDisRespect,RSG Jeg_Porkins,weapon,dead
+757,23:47.00,DrDisRespect,RSG Jeg_Porkins,weapon,dead
+758,23:48.00,DrDisRespect,RSG Jeg_Porkins,weapon,dead
+759,23:49.00,DrDisRespect,RSGJeg_Porkins,weapon,dead
+760,23:49.00,DrDisRespect,RSGJeg_Porkins,weapon,dead
+761,23:50.00,DrDisRespect,RSG] Jeg_Porkins,weapon,dead
+762,23:51.00,DrDisRespect,RSG Jeg_Porkins,weapon,dead
+763,23:51.00,DrDisRespect,RSG Jeg Porkins,weapon,dead
+764,24:19.00,WWIW420nk,MichelDouglas,weapon,dead
+765,24:19.00,WW W420nk,MichelDouglas,weapon,dead
+766,24:20.00,WI.W420n,MichelDouglas,weapon,dead
+767,24:21.00,WW|W420nk,MichelDouglas,weapon,dead
+768,24:21.00,W420n,MichelDouglas,weapon,dead
+769,24:23.00,wwl.W420nl,MichelDoualas,weapon,dead
+770,24:23.00,NAADn,MichelDouglas,weapon,dead
+771,24:24.00,W420n,MichelDouglas,weapon,dead
+772,24:25.00,WWW420nk,MichelDouglas,weapon,dead
+773,25:3.00,Cleansanch,W420n,weapon,dead
+774,25:4.00,Cleansanch,W420n,weapon,dead
+775,25:5.00,Cleansanch,W420nk,weapon,dead
+776,25:5.00,Cleansanch,WW W420nk,weapon,dead
+777,25:6.00,Cleansanch,WW W420nk,weapon,dead
+778,25:7.00,Cleansanch,WW W420nk,weapon,dead
+779,25:7.00,Cleansanch,WW W420nk,weapon,dead
+780,25:8.00,Cleansanch,W420nk,weapon,dead
+781,25:9.00,Cleansanch,W420nk,weapon,dead
+782,25:9.00,Cleansanch,W420nk,weapon,dead
