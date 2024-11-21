@@ -32,5 +32,13 @@ latest models can be found on the releases page [here](https://github.com/vidpar
 | pubg_char_detv1.2.pt | yolo11n | 224x224 | text detector for cropped names from log parser |
 |weapon_classifierv1.0.pth | ResNet34 | 224x224 | weapons classifier for weapons in kill logs |
 
+## 1.3 inference example
+please run 
+```
+pip install -r webui/requirements.txt && cd examples
+python3 end2end.py --img path/to/test/frame
+```
+
+
 ## 2. program flow
 ![](pubg_parser_diagram.png)
