@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:13
+    container_name: labelstudio_postgres
+    environment:
+      POSTGRES_USER: labelstudio_user
+      POSTGRES_PASSWORD: labelstudio_password
+      POSTGRES_DB: labelstudio_db
+    volumes:
+      - ./postgres_db:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  labelstudio:
+    image: heartexlabs/label-studio:latest
+    container_name: labelstudio
+    environment:
+      DATABASE_HOST: postgres
+      DATABASE_PORT: 5432
+      DATABASE_NAME: labelstudio_db
+      DATABASE_USER: labelstudio_user
+      DATABASE_PASSWORD: labelstudio_password
+      LABEL_STUDIO_SECRET_KEY: your_secret_key
+    depends_on:
+      - postgres
+    ports:
+      - "8080:8080"
+    command: ["label-studio", "start", "--host", "0.0.0.0", "--port", "8080"]
+    volumes:
+      - ./label_studio_data:/label-studio/data
+      - /media/hbdesk/UNTITLED/preprocessed_data/:/data/images
+    user: root
+volumes:
+  postgres_data:
